@@ -1,3 +1,7 @@
+# test -> 이 줄은 무시
+# 파일 명은 상관없고, 확장자가 text면 관리하지 않는다는 의미.
+*.test
+
 # History files
 .Rhistory
 .Rapp.history
